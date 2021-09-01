@@ -1,5 +1,5 @@
 chocolate
 icecreams
-biscuits
+biscuits(main)
 coffee
-tea
+tea(main)
